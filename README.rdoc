@@ -1,1 +1,3 @@
+Database (development/production): SQLite version 3.x
+
 Clone and test.
